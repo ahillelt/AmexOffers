@@ -24,8 +24,8 @@ Notes:
 
 ### CVS
 
-[Readme]()<br>
-[Script]()<br>
+[Readme](https://github.com/ahillelt/AutomateOffers/blob/main/cvs/readme.md)<br>
+[Script](https://github.com/ahillelt/AutomateOffers/blob/main/cvs/cvs.sh)<br>
 Notes:
 
 ### PayPal [WIP]
