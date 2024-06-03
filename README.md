@@ -4,6 +4,8 @@
   - [American Express](#american-express)
   - [Chase](#chase)
   - [CVS](#cvs)
+  - [PayPal](#paypal)
+
 
 ***
 
@@ -24,4 +26,10 @@ Notes:
 
 [Readme]()<br>
 [Script]()<br>
+Notes:
+
+### PayPal [WIP]
+
+[Readme]()<br>
+[Script](https://github.com/ahillelt/AutomateOffers/blob/main/paypal/paypal.sh)<br>
 Notes:
