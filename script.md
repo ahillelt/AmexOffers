@@ -7,19 +7,27 @@
     const totalOffers = offers.length;
     console.log(`🛍️ Total offers to add: ${totalOffers}`);
 
-    offers.forEach((e, index) => {
+    function addOfferWithDelay(index) {
+        if (index >= totalOffers) {
+            console.log("🎉 All offers have been added to your card. Enjoy your savings! 🎉");
+            return;
+        }
+
+        const offerButton = offers[index];
+        offerButton.click();
+
         setTimeout(() => {
-            e.click();
             const offersLeft = totalOffers - index - 1;
             console.log(`✨ Offer added... ${offersLeft} more left! ✨`);
-            if (offersLeft === 0) {
-                console.log("🎉 All offers have been added to your card. Enjoy your savings! 🎉");
-            }
-        }, index * 350);
-    });
+            addOfferWithDelay(index + 1); // Move to the next offer after a short delay
+        }, 1000); // Delay in milliseconds (adjust as needed)
+    }
 
-    if (totalOffers === 0) {
+    if (totalOffers > 0) {
+        addOfferWithDelay(0); // Start adding offers from index 0
+    } else {
         console.log("🎉 All offers have been added to your card. Enjoy your savings! 🎉");
     }
 })();
+
 ```
