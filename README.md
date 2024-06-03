@@ -1,4 +1,4 @@
-
+Note: None of these scripts modify the website code it's being applied to. It merely automates the exact steps (and intent) you would take as a site user. You still must be a legitimate site user that is logged in. Use at your own risk. 
 
 ## Sites
   - [American Express](#american-express)
