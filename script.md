@@ -1,3 +1,4 @@
+```
 (function run() {
     const offers = Array.from(document.querySelectorAll('[data-rowtype="offer"]'))
         .map(e => e.querySelector('button[title="Add to Card"]'))
@@ -21,3 +22,4 @@
         console.log("🎉 All offers have been added to your card. Enjoy your savings! 🎉");
     }
 })();
+```
