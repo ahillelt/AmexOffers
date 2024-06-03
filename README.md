@@ -9,11 +9,11 @@
 ### American Express
 
 [Readme](https://github.com/ahillelt/AmexOffers/blob/main/amex/readme.md)<br>
-[Script](https://github.com/ahillelt/AmexOffers/blob/main/amex/amex.sh)
-Credit: [ahillelt](https://github.com/ahillelt)
+[Script](https://github.com/ahillelt/AmexOffers/blob/main/amex/amex.sh)<br>
+Notes:
 
 ### CVS
 
 [Readme]()<br>
-[Script]()
-Credit:
+[Script]()<br>
+Notes:
