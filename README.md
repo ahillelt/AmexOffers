@@ -16,7 +16,7 @@ Notes:
 ### Chase
 
 [Readme]()<br>
-[Script](https://github.com/ahillelt/AutomateOffers/blob/main/chase/chase.sh)<br
+[Script](https://github.com/ahillelt/AutomateOffers/blob/main/chase/chase.sh)<br>
 Notes:
 
 
