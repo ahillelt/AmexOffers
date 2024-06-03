@@ -38,9 +38,10 @@ In the DevTools sidebar, click on the "Console" tab from the top menu.
 Copy the following piece of code and paste it into the console right after the > prompt and press Enter:
 https://github.com/ahillelt/AmexOffers/blob/main/script.md
 
+<i>Note: you may need permission to copy/paste functionality in console</i>
 
+<b>Step 10</b>
 
+ENTER and watch the script at work; it'll count down, and once complete, all offers should be added. The deprecation warnings you may see are on the website side, come on devs!
 
-
-
-I really liked the layout from https://dev.to/npranto done here: https://dev.to/npranto/automate-adding-cvs-coupons-p06. This script has been created to follow the same UX.
+<i>I really liked the layout that [Nazmuz Shakib Pranto](https://dev.to/npranto) did [here](https://dev.to/npranto/automate-adding-cvs-coupons-p06). This script has been created to follow the same UX.</i>
