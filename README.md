@@ -13,7 +13,7 @@
 [Script](https://github.com/ahillelt/AutomateOffers/blob/main/amex/amex.sh)<br>
 Notes:
 
-### Chase
+### Chase [WIP]
 
 [Readme]()<br>
 [Script](https://github.com/ahillelt/AutomateOffers/blob/main/chase/chase.sh)<br>
