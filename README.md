@@ -2,15 +2,23 @@
 
 ## Sites
   - [American Express](#american-express)
+  - [Chase](#chase)
   - [CVS](#cvs)
 
 ***
 
 ### American Express
 
-[Readme](https://github.com/ahillelt/AmexOffers/blob/main/amex/readme.md)<br>
-[Script](https://github.com/ahillelt/AmexOffers/blob/main/amex/amex.sh)<br>
+[Readme](https://github.com/ahillelt/AutomateOffers/blob/main/amex/readme.md)<br>
+[Script](https://github.com/ahillelt/AutomateOffers/blob/main/amex/amex.sh)<br>
 Notes:
+
+### CHase
+
+[Readme]()<br>
+[Script](https://github.com/ahillelt/AutomateOffers/blob/main/chase/chase.sh)<br
+Notes:
+
 
 ### CVS
 
